@@ -3,7 +3,7 @@
 
 
 ## My Expertise 
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,wordpress&theme=light)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,wordpress,sql&theme=light)
 
 
 ## Currently Learning
